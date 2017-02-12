@@ -12,6 +12,8 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+// git提交测试
+@property (strong, nonatomic) UIViewController *testCtrl;
 
 @end
 
