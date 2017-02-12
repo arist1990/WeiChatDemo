@@ -18,5 +18,8 @@
 // 新增一个好玩的功能
 @property (strong, nonatomic) UIViewController *newCtrl;
 
+// 新增的好玩的功能测试通过之后合并到主分支
+@property (strong, nonatomic) UIViewController *newDoneCtrl;
+
 @end
 
