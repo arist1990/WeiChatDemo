@@ -15,5 +15,11 @@
 // git提交测试
 @property (strong, nonatomic) UIViewController *testCtrl;
 
+// 新增一个好玩的功能
+@property (strong, nonatomic) UIViewController *nCtrl;
+
+// 新增的好玩的功能测试通过之后合并到主分支
+@property (strong, nonatomic) UIViewController *nDoneCtrl;
+
 @end
 
