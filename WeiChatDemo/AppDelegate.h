@@ -15,5 +15,8 @@
 // git提交测试
 @property (strong, nonatomic) UIViewController *testCtrl;
 
+// 新增一个好玩的功能
+@property (strong, nonatomic) UIViewController *newCtrl;
+
 @end
 
